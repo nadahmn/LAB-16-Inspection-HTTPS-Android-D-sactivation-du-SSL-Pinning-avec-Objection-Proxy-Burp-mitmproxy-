@@ -18,5 +18,14 @@ frida / objection :
 <img width="848" height="205" alt="image" src="https://github.com/user-attachments/assets/49b38f65-3589-4990-82c2-c66a37696dfc" />
 
                                               Télécharger le certificat
-                                              
+                          
  <img width="734" height="85" alt="image" src="https://github.com/user-attachments/assets/00505cad-a5cb-41b3-8c10-ee7e85ae529b" />
+
+                                              téléchargement du certificat 
+
+<img width="278" height="46" alt="image" src="https://github.com/user-attachments/assets/1d9dca81-6579-4639-9fa3-2b0c54bb0d87" />
+
+
+                                             validation 
+                                             
+<img width="323" height="132" alt="image" src="https://github.com/user-attachments/assets/36389481-b72c-41fe-a034-c313aab267d4" />
